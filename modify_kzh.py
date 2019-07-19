@@ -1,4 +1,4 @@
-# 20190719 
+# 20190719 python3.6
 import requests
 import json
 import re
